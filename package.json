@@ -1,0 +1,25 @@
+{
+  "name": "Hexbin",
+  "main": "./lib/hexbin",
+  "version": "0.0.1",
+  "description": "A tool helps to show a number in Hex, Binary and Decimal representation.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "hexbin:toggle"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "repository": "https://github.com/atom/hexbin",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
