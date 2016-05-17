@@ -3,4 +3,8 @@
 A tool helps to show a number in Hex, Binary and Decimal representation. the
 number can be in Hex or Decimal. The results are shown in the Statusbar.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Usage:
+Highlight a number in the editor, then use the ket shortcut or choose from the
+menu to toggle the conversion.
+
+![Screenshot](https://github.com/zaidt/hexbin/blob/master/resources/hexbin.png?raw=true)
