@@ -15,7 +15,7 @@
       }
     }
   },
-  "repository": "https://github.com/atom/hexbin",
+  "repository": "https://github.com/zaidt/hexbin",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
