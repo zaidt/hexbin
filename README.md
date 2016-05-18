@@ -7,4 +7,4 @@ Usage:
 Highlight a number in the editor, then use the ket shortcut or choose from the
 menu to toggle the conversion.
 
-![Screenshot](https://github.com/zaidt/hexbin/blob/master/resources/hexbin.png?raw=true)
+![screenshot](https://github.com/zaidt/hexbin/blob/master/resources/hexbin.png?raw=true)
