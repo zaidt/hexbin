@@ -1,7 +1,7 @@
 {
   "name": "Hexbin",
   "main": "./lib/hexbin",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A tool helps to show a number in Hex, Binary and Decimal representation.",
   "keywords": [],
   "activationCommands": {
